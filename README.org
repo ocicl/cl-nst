@@ -1,0 +1,10 @@
+* cl-nst
+
+Unit testing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jphmrst/cl-nst.git   |
+| commit  | 6c0990f  |
+| systems | cl-nst |
+|---------+-------------------------------------------|
+
