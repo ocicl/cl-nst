@@ -2,8 +2,8 @@
 
 Unit testing for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/jphmrst/cl-nst.git |
-| commit  | 6c0990f                                   |
-| systems | (nst-mop-utils mnst-relay comp-set masdfnst nst asdf-nst) |
-|---------+-------------------------------------------|
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/jphmrst/cl-nst.git               |
+| commit  | 6c0990f                                                 |
+| systems | nst-mop-utils mnst-relay comp-set masdfnst nst asdf-nst |
+|---------+---------------------------------------------------------|
